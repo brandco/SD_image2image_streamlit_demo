@@ -1,2 +1,1 @@
 stability_sdk
-PIL
